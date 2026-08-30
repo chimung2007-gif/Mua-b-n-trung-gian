@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1783434584838,
+    "name": "STEAM GIFT WALLET 750K",
+    "platform": "Steam",
+    "image": "🎮",
+    "description": "",
+    "originalPrice": 750000,
+    "fee": 10000,
+    "totalPrice": 760000,
+    "active": true,
+    "createdAt": "2026-07-07T14:29:44.838Z"
+  },
+  {
+    "id": 1783434536022,
+    "name": "STEAM GIFT WALLET 375K",
+    "platform": "Steam",
+    "image": "🎮",
+    "description": "",
+    "originalPrice": 375000,
+    "fee": 5000,
+    "totalPrice": 380000,
+    "active": true,
+    "createdAt": "2026-07-07T14:28:56.022Z"
+  },
+  {
+    "id": 1783423506753,
+    "name": "STEAM GIFT WALLET 150K",
+    "platform": "Steam",
+    "image": "🎮",
+    "description": "",
+    "originalPrice": 150000,
+    "fee": 3000,
+    "totalPrice": 153000,
+    "active": true,
+    "createdAt": "2026-07-07T11:25:06.753Z"
+  },
+  {
+    "id": 1783423489591,
+    "name": "STEAM GIFT WALLET 75K",
+    "platform": "Steam",
+    "image": "🎮",
+    "description": "",
+    "originalPrice": 75000,
+    "fee": 5000,
+    "totalPrice": 80000,
+    "active": true,
+    "createdAt": "2026-07-07T11:24:49.591Z"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "System Developer",
+    "email": "netmonitorsystem@gmail.com",
+    "password": "$2a$10$aYJk7YVgRuBt6ixCn0uWOemdUUfUssAoElbS/HFoSOXCkuzAUvW3K",
+    "role": "admin",
+    "status": "active",
+    "verified": true,
+    "verifyToken": null,
+    "verifyExpires": null,
+    "resetToken": null,
+    "resetExpires": null
+  },
+  {
+    "id": 1783437730528,
+    "name": "Qvinh",
+    "email": "chimung2007@gmail.com",
+    "password": "$2a$10$I5bILvBUrRX1aGu65AS9SOs/ZPUKK3QSfpJRp2DPgCtEDl6T2ALw6",
+    "role": "user",
+    "status": "active",
+    "verified": true,
+    "verifyToken": null,
+    "verifyExpires": null,
+    "resetToken": null,
+    "resetExpires": null
+  }
+]
